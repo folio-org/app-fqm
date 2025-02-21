@@ -7,7 +7,6 @@ Application descriptor repository for the FOLIO FQM (FOLIO Query Machine) applic
 |:----------------------|
 | `mod-fqm-manager`     |
 | `mod-lists`           |
-| `edge-fqm`            |
 
 ## UI Modules
 

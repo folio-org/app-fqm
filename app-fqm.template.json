@@ -25,10 +25,6 @@
     {
       "name": "mod-lists",
       "version": "latest"
-    },
-    {
-      "name": "edge-fqm",
-      "version": "latest"
     }
   ],
   "uiModules": [
