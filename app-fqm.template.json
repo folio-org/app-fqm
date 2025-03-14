@@ -5,36 +5,32 @@
   "platform": "complete",
   "dependencies": [
     {
-      "name": "app-platform-minimal",
-      "version": "^1.0.0-SNAPSHOT"
-    },
-    {
       "name": "app-platform-complete",
-      "version": "^1.0.0-SNAPSHOT"
+      "version": "^2.0.0"
     },
     {
       "name": "app-acquisitions",
-      "version": "^1.0.0-SNAPSHOT"
+      "version": "^1.0.0"
     }
   ],
   "modules": [
     {
       "name": "mod-fqm-manager",
-      "version": "latest"
+      "version": "4.0.0"
     },
     {
       "name": "mod-lists",
-      "version": "latest"
+      "version": "3.1.0"
     }
   ],
   "uiModules": [
     {
       "name": "folio_lists",
-      "version": "latest"
+      "version": "4.0.0"
     },
     {
       "name": "folio_plugin-query-builder",
-      "version": "latest"
+      "version": "2.0.0"
     }
   ]
 }
