@@ -19,19 +19,11 @@
       "version": "latest"
     },
     {
-      "name": "mod-lists",
-      "version": "latest"
-    },
-    {
       "name": "edge-fqm",
       "version": "latest"
     }
   ],
   "uiModules": [
-    {
-      "name": "folio_lists",
-      "version": "latest"
-    },
     {
       "name": "folio_plugin-query-builder",
       "version": "latest"
