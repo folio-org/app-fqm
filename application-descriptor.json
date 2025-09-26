@@ -1,6 +1,6 @@
 {
   "name": "app-fqm",
-  "version": "1.2.0-SNAPSHOT.100100000000257",
+  "version": "1.2.0-SNAPSHOT.100100000000305",
   "description": "Application descriptor for the FOLIO FQM application",
   "platform": "complete",
   "dependencies": [
@@ -22,7 +22,7 @@
   "uiModules": [
     {
       "name": "folio_plugin-query-builder",
-      "version": "3.0.1099000000000960"
+      "version": "3.0.1099000000000967"
     }
   ]
 }
