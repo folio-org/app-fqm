@@ -1,6 +1,6 @@
 {
   "name": "app-fqm",
-  "version": "1.2.0-SNAPSHOT.100100000001141",
+  "version": "1.2.0-SNAPSHOT.100100000001269",
   "description": "Application descriptor for the FOLIO FQM application",
   "platform": "complete",
   "dependencies": [
@@ -12,7 +12,7 @@
   "modules": [
     {
       "name": "mod-fqm-manager",
-      "version": "4.1.0-SNAPSHOT.840"
+      "version": "4.1.0-SNAPSHOT.841"
     },
     {
       "name": "edge-fqm",
