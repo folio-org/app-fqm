@@ -7,7 +7,7 @@
     <artifactId>app-fqm</artifactId>
     <groupId>org.folio</groupId>
     <description>Application descriptor for the FOLIO FQM application</description>
-    <version>1.1.0-SNAPSHOT</version>
+    <version>1.1.0</version>
 
     <properties>
         <project.name>app-fqm</project.name>
