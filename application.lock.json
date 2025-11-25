@@ -2,13 +2,8 @@
   "name": "app-fqm",
   "version": "1.2.0-SNAPSHOT.100200000001350",
   "description": "Application descriptor for the FOLIO FQM application",
-  "platform": "complete",
-  "dependencies": [
-    {
-      "name": "app-acquisitions",
-      "version": "^1.2.0-SNAPSHOT"
-    }
-  ],
+  "platform": "minimal",
+  "dependencies": [],
   "modules": [
     {
       "name": "mod-fqm-manager",
