@@ -5,9 +5,9 @@
   "platform": "complete",
   "dependencies": [
     {
-      "name": "app-acquisitions",
-      "version": "^1.2.0-SNAPSHOT",
-      "preRelease": "only"
+      "name": "app-platform-minimal",
+      "version": "^2.1.0",
+      "preRelease": "false"
     }
   ],
   "modules": [
