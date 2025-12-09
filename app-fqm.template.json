@@ -7,14 +7,6 @@
     {
       "name": "app-acquisitions",
       "version": "^1.2.0-SNAPSHOT"
-    },
-    {
-      "name": "app-search",
-      "version": "^1.0.0-SNAPSHOT"
-    },
-    {
-      "name": "app-marc-storage",
-      "version": "^1.0.0-SNAPSHOT"
     }
   ],
   "modules": [
