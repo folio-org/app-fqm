@@ -1,6 +1,6 @@
 {
   "name": "app-fqm",
-  "version": "1.2.0-SNAPSHOT.100200000001302",
+  "version": "1.2.0-SNAPSHOT.100200000002198",
   "description": "Application descriptor for the FOLIO FQM application",
   "platform": "complete",
   "dependencies": [
@@ -12,17 +12,17 @@
   "modules": [
     {
       "name": "mod-fqm-manager",
-      "version": "4.1.0-SNAPSHOT.899"
+      "version": "4.1.0-SNAPSHOT.925"
     },
     {
       "name": "edge-fqm",
-      "version": "4.1.0-SNAPSHOT.55"
+      "version": "4.1.0-SNAPSHOT.56"
     }
   ],
   "uiModules": [
     {
       "name": "folio_plugin-query-builder",
-      "version": "3.0.1099000000001090"
+      "version": "3.0.1099000000001128"
     }
   ]
 }
