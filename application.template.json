@@ -6,31 +6,31 @@
   "dependencies": [
     {
       "name": "app-platform-complete",
-      "version": "^2.1.0",
+      "version": "^VERSION_^2.1.0",
       "preRelease": "false"
     },
     {
       "name": "app-acquisitions",
-      "version": "^1.1.0",
+      "version": "^VERSION_^1.1.0",
       "preRelease": "false"
     }
   ],
   "modules": [
     {
       "name": "mod-fqm-manager",
-      "version": "latest",
+      "version": "^VERSION_latest",
       "preRelease": "false"
     },
     {
       "name": "edge-fqm",
-      "version": "latest",
+      "version": "^VERSION_latest",
       "preRelease": "false"
     }
   ],
   "uiModules": [
     {
       "name": "folio_plugin-query-builder",
-      "version": "latest",
+      "version": "^VERSION_latest",
       "preRelease": "false"
     }
   ]
