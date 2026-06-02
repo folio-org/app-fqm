@@ -18,7 +18,7 @@
   "modules": [
     {
       "name": "mod-fqm-manager",
-      "version": "^4.0.15",
+      "version": "~4.0.15",
       "preRelease": "false"
     },
     {
