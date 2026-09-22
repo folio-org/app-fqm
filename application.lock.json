@@ -1,12 +1,12 @@
 {
-  "id" : "app-fqm-2.0.7",
+  "id" : "app-fqm-2.0.8",
   "name" : "app-fqm",
-  "version" : "2.0.7",
+  "version" : "2.0.8",
   "description" : "Application descriptor for the FOLIO FQM application",
   "modules" : [ {
-    "id" : "edge-fqm-4.1.3",
+    "id" : "edge-fqm-4.1.4",
     "name" : "edge-fqm",
-    "version" : "4.1.3"
+    "version" : "4.1.4"
   }, {
     "id" : "mod-fqm-manager-4.1.7",
     "name" : "mod-fqm-manager",
@@ -608,7 +608,7 @@
       }
     }
   }, {
-    "id" : "edge-fqm-4.1.3",
+    "id" : "edge-fqm-4.1.4",
     "name" : "Edge FQM API",
     "requires" : [ {
       "id" : "login",
@@ -622,7 +622,7 @@
     } ],
     "permissionSets" : [ ],
     "launchDescriptor" : {
-      "dockerImage" : "folioorg/edge-fqm:4.1.3",
+      "dockerImage" : "folioorg/edge-fqm:4.1.4",
       "dockerPull" : true,
       "env" : [ {
         "name" : "JAVA_OPTIONS",
