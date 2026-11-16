@@ -1,21 +1,21 @@
 {
-  "id" : "app-fqm-2.1.0-SNAPSHOT.100200000012545",
+  "id" : "app-fqm-2.1.0-SNAPSHOT.100200000012557",
   "name" : "app-fqm",
-  "version" : "2.1.0-SNAPSHOT.100200000012545",
+  "version" : "2.1.0-SNAPSHOT.100200000012557",
   "description" : "Application descriptor for the FOLIO FQM application",
   "modules" : [ {
-    "id" : "edge-fqm-4.2.0-SNAPSHOT.2159",
-    "name" : "edge-fqm",
-    "version" : "4.2.0-SNAPSHOT.2159"
-  }, {
     "id" : "mod-fqm-manager-4.2.0-SNAPSHOT.4062",
     "name" : "mod-fqm-manager",
     "version" : "4.2.0-SNAPSHOT.4062"
+  }, {
+    "id" : "edge-fqm-4.2.0-SNAPSHOT.2159",
+    "name" : "edge-fqm",
+    "version" : "4.2.0-SNAPSHOT.2159"
   } ],
   "uiModules" : [ {
-    "id" : "folio_plugin-query-builder-3.0.2099000000001721",
+    "id" : "folio_plugin-query-builder-3.0.2099000000001724",
     "name" : "folio_plugin-query-builder",
-    "version" : "3.0.2099000000001721"
+    "version" : "3.0.2099000000001724"
   } ],
   "dependencies" : [ {
     "name" : "app-acquisitions",
@@ -659,7 +659,7 @@
     }
   } ],
   "uiModuleDescriptors" : [ {
-    "id" : "folio_plugin-query-builder-3.0.2099000000001721",
+    "id" : "folio_plugin-query-builder-3.0.2099000000001724",
     "name" : "Create FQL query plugin for Stripes",
     "requires" : [ {
       "id" : "fqm-query",
