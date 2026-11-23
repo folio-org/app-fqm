@@ -1,12 +1,12 @@
 {
-  "id" : "app-fqm-2.1.0-SNAPSHOT.100200000012564",
+  "id" : "app-fqm-2.1.0-SNAPSHOT.100200000012580",
   "name" : "app-fqm",
-  "version" : "2.1.0-SNAPSHOT.100200000012564",
+  "version" : "2.1.0-SNAPSHOT.100200000012580",
   "description" : "Application descriptor for the FOLIO FQM application",
   "modules" : [ {
-    "id" : "mod-fqm-manager-4.2.0-SNAPSHOT.4062",
+    "id" : "mod-fqm-manager-4.2.0-SNAPSHOT.4075",
     "name" : "mod-fqm-manager",
-    "version" : "4.2.0-SNAPSHOT.4062"
+    "version" : "4.2.0-SNAPSHOT.4075"
   }, {
     "id" : "edge-fqm-4.2.0-SNAPSHOT.2159",
     "name" : "edge-fqm",
@@ -23,7 +23,7 @@
     "preRelease" : "only"
   } ],
   "moduleDescriptors" : [ {
-    "id" : "mod-fqm-manager-4.2.0-SNAPSHOT.4062",
+    "id" : "mod-fqm-manager-4.2.0-SNAPSHOT.4075",
     "name" : "FQM Manager Module",
     "requires" : [ {
       "id" : "settings",
@@ -237,6 +237,9 @@
       "id" : "call-number-types",
       "version" : "1.0"
     }, {
+      "id" : "cancellation-reason-storage",
+      "version" : "1.2"
+    }, {
       "id" : "circulation",
       "version" : "14.2"
     }, {
@@ -386,6 +389,9 @@
     }, {
       "id" : "erm",
       "version" : "7.4"
+    }, {
+      "id" : "request-storage",
+      "version" : "6.2"
     }, {
       "id" : "service-points",
       "version" : "3.3"
@@ -551,7 +557,7 @@
       "visible" : true
     } ],
     "launchDescriptor" : {
-      "dockerImage" : "folioci/mod-fqm-manager:4.2.0-SNAPSHOT.4062",
+      "dockerImage" : "folioci/mod-fqm-manager:4.2.0-SNAPSHOT.4075",
       "dockerPull" : true,
       "env" : [ {
         "name" : "JAVA_OPTIONS",
